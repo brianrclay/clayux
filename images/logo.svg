@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#313131" fill-rule="nonzero">
+            <path d="M15,8.8817842e-16 L15,4.65517241 C9.28670948,4.65517241 4.65517241,9.28670948 4.65517241,15 C4.65517241,20.7132905 9.28670948,25.3448276 15,25.3448276 L15,30 C6.71572875,30 0,23.2842712 0,15 C0,6.71572875 6.71572875,0 15,0 Z" id="Combined-Shape"></path>
+            <path d="M15,0 L30,0 L30,0 C30,8.28427125 23.2842712,15 15,15 L15,0 Z" id="Rectangle"></path>
+            <path d="M15,15 L30,15 L30,15 C30,23.2842712 23.2842712,30 15,30 L15,15 Z" id="Rectangle-Copy-6"></path>
+        </g>
+    </g>
+</svg>

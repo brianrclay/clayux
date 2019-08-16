@@ -1,0 +1,67 @@
+@keyframes glitchDown {
+    0%{
+        opacity: 0;
+        transform: translate(0, -30px)
+    }
+
+    70%{
+        opacity: 1;
+        transform: translate(0, -30px)
+    }
+
+    100%{
+        opacity: 1;
+        transform: translate(0, 0)
+    }
+}
+
+@keyframes glitchDownShadow {
+    0%{
+        transform: translate(0, -20px)
+    }
+
+    100%{
+        transform: translate(0, 0)
+    }
+}
+
+@keyframes fadeUp{
+    from{
+        opacity: 0;
+        transform: translate(0, 10px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}
+
+// @keyframes anchorPopBefore{
+//     0%{
+//         left: 0;
+//         top: 0;
+//     }
+
+//     100%{
+//         left: -5px;
+//         top: -5px;
+//     }
+// }
+
+// @keyframes anchorPopAfter{
+//     0%{
+//         left: 0;
+//         top: 0;
+//     }
+
+//     30%{
+//         left: -15px;
+//         top: -15px;
+//     }
+
+//     100%{
+//         left: -10px;
+//         top: -10px;
+//     }
+// }
